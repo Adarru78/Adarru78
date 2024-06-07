@@ -8,7 +8,9 @@
   <li>😃 <strong>Passionate software developer, constantly looking for new challenges</strong></li>
   <li>📱 <strong>Android mobile apps developer</strong></li>
   <li>🖥️ <strong>Windows apps developer</strong></li>
-  <li>🌐 <strong>Web pages developer</strong></li>
+  <li>🌐 <strong>Websites developer</strong></li>
+  <li><a href="https://github.com/Adarru78" style="color: blue; text-decoration: none;">🖱️Visit my website!</a></li>
+
 </ul>
 
 ## Skills
