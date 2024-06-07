@@ -9,7 +9,7 @@
   <li>📱 <strong>Android mobile apps developer</strong></li>
   <li>🖥️ <strong>Windows apps developer</strong></li>
   <li>🌐 <strong>Websites developer</strong></li>
-  <li><a href="https://github.com/Adarru78" style="color: blue; text-decoration: none;">🖱️Visit my website!</a></li>
+  <li><a href="https://adarru78.github.io" style="color: blue; text-decoration: none;">🖱️Visit my website!</a></li>
 
 </ul>
 
