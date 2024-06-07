@@ -4,6 +4,7 @@
 
 ## About Me
 <ul>
+  <li>😃 <strong>Passionate software developer</strong></li>
   <li>📱 <strong>Android mobile apps developer</strong></li>
   <li>🖥️ <strong>Windows apps developer</strong></li>
   <li>🌐 <strong>Web pages developer</strong></li>
