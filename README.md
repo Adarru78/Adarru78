@@ -1,4 +1,4 @@
-<h1 align="center"> Helloooo, I’m <a href="https://github.com/aarribap" style="color: blue; text-decoration: none;">@arrribap</a> 👋</h1>
+<h1 align="center"> Helloooo, I’m <a href="https://github.com/aarribap" style="color: blue; text-decoration: none;">@aarrribap</a> 👋</h1>
 
 <img src="https://github.com/Adarru78/Adarru78/blob/main/resources/banner.png"></img>
 
@@ -9,7 +9,7 @@
   <li>📱 <strong>Android mobile apps developer</strong></li>
   <li>🖥️ <strong>Windows apps developer</strong></li>
   <li>🌐 <strong>Websites developer</strong></li>
-  <li><a href="https://adarru78.github.io" style="color: blue; text-decoration: none;">🖱️Visit my website!</a></li>
+  <li><a href="https://aarribap.github.io" style="color: blue; text-decoration: none;">🖱️Visit my website!</a></li>
 
 </ul>
 
