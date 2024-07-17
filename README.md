@@ -1,6 +1,6 @@
 <h1 align="center"> Helloooo, I’m <a href="https://github.com/aarribap" style="color: blue; text-decoration: none;">@aarribap</a> 👋</h1>
 
-<img src="https://github.com/aarribap/aarribap/blob/main/resources/banne1r.png"></img>
+<img src="https://github.com/aarribap/aarribap/blob/main/resources/banner.png"></img>
 
 ## About Me
 <ul>
